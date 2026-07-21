@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/30243574/muhammad-zain.html)
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
