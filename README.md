@@ -1,5 +1,4 @@
-[muhammad-zain.html](https://github.com/user-attachments/files/30243574/muhammad-zain.html)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/30243574/muhammad-zain.html)
 <html lang="en">
 <head>
 <meta charset="UTF-8">
