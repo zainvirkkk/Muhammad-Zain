@@ -1,11 +1,11 @@
-[muhammad-zain.html](https://github.com/user-attachments/files/30243298/muhammad-zain.html)
-# Muhammad-Zain<!DOCTYPE html>
+[muhammad-zain (2).html](https://github.com/user-attachments/files/30243574/muhammad-zain.2.html)
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Muhammad Zain — Corporate & Tax Counsel, Islamabad</title>
-<meta name="description" content="Muhammad Zain — SALT. LLB (Hons) Shariah & Law, International Islamic University Islamabad.">
+<meta name="description" content="Muhammad Zain — Legal Researcher in Islamabad. SALT. LLB (Hons) Shariah & Law, International Islamic University Islamabad.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500;1,9..144,600&family=Source+Serif+4:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -282,6 +282,18 @@
     font-family:'Source Serif 4', serif;
     font-size:16px;
   }
+  .contact-item a{
+    display:inline-flex;
+    align-items:center;
+    gap:7px;
+  }
+  .contact-item a svg{
+    width:15px;
+    height:15px;
+    fill:var(--brass);
+    flex-shrink:0;
+  }
+  .contact-item a:hover svg{ fill:var(--oxblood); }
 
   footer{
     max-width:var(--maxw);
@@ -319,8 +331,7 @@
   </div>
 
   <div class="affiliations">
-  
-  <span><b>SALT</b> — Society for Advancement of Legal Training</span>
+    <span><b>SALT</b> — Society for Advancement of Legal Training</span>
   </div>
 </header>
 
@@ -514,7 +525,24 @@
       </div>
       <div class="contact-item">
         <span class="label">LinkedIn</span>
-        <a href="https://www.linkedin.com/in/muhammad-zain-a8353a123/" target="_blank" rel="noopener">linkedin.com/in/muhammad-zain</a>
+        <a href="https://www.linkedin.com/in/muhammad-zain-a8353a123/" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.86 0-2.14 1.45-2.14 2.94v5.67H9.36V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.38-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45z"/></svg>
+          linkedin.com/in/muhammad-zain
+        </a>
+      </div>
+      <div class="contact-item">
+        <span class="label">Facebook</span>
+        <a href="https://www.facebook.com/muhammadzain.idrees" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 21v-7.9h2.65l.4-3.08H13.5V8.05c0-.89.25-1.5 1.52-1.5h1.63V3.8C16.36 3.75 15.36 3.65 14.19 3.65c-2.44 0-4.11 1.49-4.11 4.22v2.35H7.42v3.08h2.66V21h3.42z"/></svg>
+          facebook.com/muhammadzain.idrees
+        </a>
+      </div>
+      <div class="contact-item">
+        <span class="label">Instagram</span>
+        <a href="https://www.instagram.com/zainvirkkk/" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8.4a3.6 3.6 0 1 0 0 7.2 3.6 3.6 0 0 0 0-7.2zm0 5.94a2.34 2.34 0 1 1 0-4.68 2.34 2.34 0 0 1 0 4.68zm4.6-6.08a.84.84 0 1 1-1.68 0 .84.84 0 0 1 1.68 0zM20 7.02c-.06-1.2-.33-2.27-1.2-3.14-.87-.87-1.94-1.14-3.14-1.2C14.44 2.62 9.56 2.62 8.34 2.68c-1.2.06-2.27.33-3.14 1.2-.87.87-1.14 1.94-1.2 3.14C3.94 8.24 3.94 15.76 4 16.98c.06 1.2.33 2.27 1.2 3.14.87.87 1.94 1.14 3.14 1.2 1.22.06 6.1.06 7.32 0 1.2-.06 2.27-.33 3.14-1.2.87-.87 1.14-1.94 1.2-3.14.06-1.22.06-6.74 0-7.96zM18.4 17.9c-.26.66-.77 1.17-1.43 1.43-.99.39-3.34.3-4.97.3s-3.98.08-4.97-.3a2.55 2.55 0 0 1-1.43-1.43c-.39-.99-.3-3.34-.3-4.97s-.08-3.98.3-4.97c.26-.66.77-1.17 1.43-1.43.99-.39 3.34-.3 4.97-.3s3.98-.08 4.97.3c.66.26 1.17.77 1.43 1.43.39.99.3 3.34.3 4.97s.09 3.98-.3 4.97z"/></svg>
+          instagram.com/zainvirkkk
+        </a>
       </div>
       <div class="contact-item">
         <span class="label">Location</span>
